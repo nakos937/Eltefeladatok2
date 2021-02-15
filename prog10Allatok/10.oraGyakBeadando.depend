@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1588095309 source:d:\_gamer1_adatai\desktop\progalap\10.oragyakbeadando\main.cpp
+	<iostream>
+	"hunter.hpp"
+
+1588095268 d:\_gamer1_adatai\desktop\progalap\10.oragyakbeadando\hunter.hpp
+	<iostream>
+	<vector>
+	<fstream>
+	"trophy.hpp"
+	"lion.hpp"
+	"elephant.hpp"
+	"rhino.hpp"
+
+1588096825 d:\_gamer1_adatai\desktop\progalap\10.oragyakbeadando\trophy.hpp
+	<iostream>
+
+1588096800 d:\_gamer1_adatai\desktop\progalap\10.oragyakbeadando\lion.hpp
+	<iostream>
+	"trophy.hpp"
+
+1588096825 d:\_gamer1_adatai\desktop\progalap\10.oragyakbeadando\elephant.hpp
+	<iostream>
+	"trophy.hpp"
+
+1588096825 d:\_gamer1_adatai\desktop\progalap\10.oragyakbeadando\rhino.hpp
+	<iostream>
+	"trophy.hpp"
+
+1588095309 source:d:\_gamer1_adatai\desktop\beadando\progalap\10.oragyakbeadando\main.cpp
+	<iostream>
+	"hunter.hpp"
+
+1588095268 d:\_gamer1_adatai\desktop\beadando\progalap\10.oragyakbeadando\hunter.hpp
+	<iostream>
+	<vector>
+	<fstream>
+	"trophy.hpp"
+	"lion.hpp"
+	"elephant.hpp"
+	"rhino.hpp"
+
+1588096825 d:\_gamer1_adatai\desktop\beadando\progalap\10.oragyakbeadando\trophy.hpp
+	<iostream>
+
+1588096800 d:\_gamer1_adatai\desktop\beadando\progalap\10.oragyakbeadando\lion.hpp
+	<iostream>
+	"trophy.hpp"
+
+1588096825 d:\_gamer1_adatai\desktop\beadando\progalap\10.oragyakbeadando\elephant.hpp
+	<iostream>
+	"trophy.hpp"
+
+1588096825 d:\_gamer1_adatai\desktop\beadando\progalap\10.oragyakbeadando\rhino.hpp
+	<iostream>
+	"trophy.hpp"
+

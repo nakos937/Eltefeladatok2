@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1587572224 source:d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\car.cpp
+	"car.h"
+	"petrol.h"
+	<iostream>
+	<sstream>
+
+1541246042 d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\car.h
+	<string>
+
+1542209704 d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\petrol.h
+	"pump.h"
+	"cash.h"
+	"car.h"
+	<vector>
+
+1542209784 d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\pump.h
+	"cash.h"
+
+1541593434 d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\cash.h
+
+1552683840 source:d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\cash.cpp
+	"cash.h"
+	"petrol.h"
+	"pump.h"
+
+1587572240 source:d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\main.cpp
+	<iostream>
+	<sstream>
+	"petrol.h"
+	"car.h"
+
+1587572133 source:d:\_gamer1_adatai\desktop\progalap\89.oragyakbeadando\petrol.cpp
+	"petrol.h"
+
